@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David-Local\\Source\\Repos\\blueboy90780\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\Formatting.csproj": {}
+    "C:\\Users\\David-Local\\source\\repos\\Public Github Repository\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\Formatting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David-Local\\Source\\Repos\\blueboy90780\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\Formatting.csproj": {
+    "C:\\Users\\David-Local\\source\\repos\\Public Github Repository\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\Formatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David-Local\\Source\\Repos\\blueboy90780\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\Formatting.csproj",
+        "projectUniqueName": "C:\\Users\\David-Local\\source\\repos\\Public Github Repository\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\Formatting.csproj",
         "projectName": "Formatting",
-        "projectPath": "C:\\Users\\David-Local\\Source\\Repos\\blueboy90780\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\Formatting.csproj",
+        "projectPath": "C:\\Users\\David-Local\\source\\repos\\Public Github Repository\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\Formatting.csproj",
         "packagesPath": "C:\\Users\\David-Local\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David-Local\\Source\\Repos\\blueboy90780\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\obj\\",
+        "outputPath": "C:\\Users\\David-Local\\source\\repos\\Public Github Repository\\CS10.NET6_Student_Exercise\\vs4win\\Chapter02\\Formatting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David-Local\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
