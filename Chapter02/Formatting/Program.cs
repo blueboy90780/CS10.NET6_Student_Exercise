@@ -54,3 +54,5 @@ WriteLine("Key: {0}, Char: {1}, Modifiers: {2}",
   arg0: key.Key,
   arg1: key.KeyChar,
   arg2: key.Modifiers);
+
+Console.WriteLine("Hello World!");
